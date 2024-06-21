@@ -3,13 +3,11 @@
   <title>Liam Moorhouse History E-Folio Navigation</title>
 </head>
 <body>
-    <div style="font-family: Calibri; font-size: 2em;">
+    <div style="font-family: Calibri; font-size: 2em; margins: 8px 8px 8px 8px;">
+      </br>
       Liam Moorhouse History E-Folio Navigation
       </br></br>
-      - <a href="historynav.html">History</a></br></br>
-      - <a href="sciencenav">History</a></br></br>
-      - <a href="https://drive.google.com/drive/folders/1si6kWQ1ncKc4425mJiNFeSrt1xRizEeL?usp=sharing">History</a></br></br>
-      - <a href="https://drive.google.com/drive/folders/1si6kWQ1ncKc4425mJiNFeSrt1xRizEeL?usp=sharing">History</a></br></br>
+      - <a href="History/StolenGeneration.html">History</a></br></br>
       Thanks, Liam.
   </div>
 </body>
